@@ -1,6 +1,6 @@
 import { View } from "react-native";
 import { StatusBar, Text } from "react-native";
-import {Ex1, Ex2, Ex3, DesafioAula1} from "./Flex/Flex";
+import {Ex1, Ex2, Ex3, DesafioAula1, Ex4, Ex5, Ex6} from "./Flex/Flex";
 
 export default function App() {  
 
@@ -9,7 +9,10 @@ export default function App() {
       {/* <Ex1/> */}
       {/* <Ex2/> */}
       {/* <Ex3/> */}
-      <DesafioAula1/>
+      {/* <Ex4/> */}
+      {/* <Ex5/> */}
+      <Ex6/>
+      {/* <DesafioAula1/> */}
       <StatusBar style='auto'/>
     </View>
     
