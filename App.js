@@ -10,7 +10,6 @@ export default function App() {
       {/* <Ex2/> */}
       {/* <Ex3/> */}
       <DesafioAula1/>
-
       <StatusBar style='auto'/>
     </View>
     
